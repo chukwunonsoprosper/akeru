@@ -52,7 +52,7 @@ We welcome contributions of all forms, from code to documentation. Here’s how 
 
 - **Get Involved**: Check out our issues tab on GitHub.
 - **Submit Pull Requests**: Contributions are reviewed regularly—ensure your code adheres to our standards.
-- **See full Contributing guide [here](./CONTRIBUTING.md).**
+- **See full Contributing guide [here](./docs/CONTRIBUTING.md).**
 
 ## Visuals and Diagrams
 
